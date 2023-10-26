@@ -22,6 +22,7 @@ h1{
     background-size: 100% 3rem;
     position: relative;
     line-height: 3rem;
+    background: -webkit-gradient(linear, 0,0,0, 100% from #d9eaf3, color-stop(4%,#fff)) 0 4px;
 }
 p{
     margin: 0 0 3rem;
